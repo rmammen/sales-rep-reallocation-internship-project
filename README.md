@@ -60,7 +60,7 @@ This approach balanced analytical rigor with usability, giving users confidence 
 
 ---
 
-## How It Works (High Level)
+## How It Works
 At a conceptual level, the workflow followed this pattern:
 
 1. Load an initial account-to-rep dataset  
